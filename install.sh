@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Install FBI tool
+# Install FrameBuffer Imageviewer tool
 sudo apt-get install fbi
 
 # Update fstab
