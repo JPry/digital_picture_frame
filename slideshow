@@ -1,0 +1,2 @@
+#!/bin/bash
+fbi -noverbose -m 848x480 -a -u -t 4 /home/pi/digital_picture_frame/media/*
